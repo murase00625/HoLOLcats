@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item 	android:id="@+id/ab_menu_create_pic"
+			android:title="@string/lolcat_pick"
+        	android:showAsAction="ifRoom"
+			android:orderInCategory="1"
+			android:icon="@drawable/newpic"
+			android:titleCondensed="Open" />
+    <item	android:id="@+id/ab_menu_add_captions"
+        	android:title="@string/lolcat_add_captions"
+        	android:showAsAction="ifRoom"
+        	android:orderInCategory="2"
+        	android:icon="@drawable/edit"
+        	android:titleCondensed="Caption" />
+    <item	android:id="@+id/ab_menu_save_pic"
+        	android:title="@string/lolcat_save"
+        	android:showAsAction="ifRoom"
+        	android:orderInCategory="3"
+        	android:icon="@drawable/save"
+        	android:titleCondensed="Save" />
+    <item	android:id="@+id/ab_menu_clear_captions"
+        	android:title="@string/lolcat_clear_caption"
+        	android:showAsAction="ifRoom"
+        	android:orderInCategory="4"
+        	android:icon="@drawable/undo"
+        	android:titleCondensed="Undo" />
+    <item	android:id="@+id/ab_menu_clear_photo"
+        	android:title="@string/lolcat_clear_photo"
+        	android:showAsAction="ifRoom"
+        	android:orderInCategory="5"
+        	android:icon="@drawable/discard"
+        	android:titleCondensed="Discard" />
+
+</menu>

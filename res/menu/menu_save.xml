@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item 	android:id="@+id/ab_menu_view"
+			android:title="@string/lolcat_save_succeeded_dialog_view"
+        	android:showAsAction="ifRoom"
+			android:orderInCategory="1"
+			android:icon="@drawable/gallery"
+			android:titleCondensed="View" />
+    <item 	android:id="@+id/ab_menu_share"
+			android:title="@string/lolcat_save_succeeded_dialog_share"
+        	android:showAsAction="ifRoom"
+			android:orderInCategory="2"
+			android:icon="@drawable/share"
+			android:titleCondensed="Share" />
+    <item 	android:id="@+id/ab_menu_cancel"
+			android:title="@string/lolcat_save_succeeded_dialog_cancel"
+        	android:showAsAction="ifRoom"
+			android:orderInCategory="3"
+			android:icon="@drawable/cancel"
+			android:titleCondensed="Cancel" />
+
+</menu>
