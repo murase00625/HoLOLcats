@@ -14,4 +14,4 @@ Changes:
 - Changed the reporting dialog to launch another Activity with appropriate ActionBar.
 
 Known bugs:
-- The captioning dialog uses a lighter style for the buttons than the colors used for Holo Dark.
+- FIXED: -The captioning dialog uses a lighter style for the buttons than the colors used for Holo Dark.- The previous version used classes from the support library, not HoloEverywhere.
