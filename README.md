@@ -5,7 +5,7 @@ Conversion of Google Lolcats sample app to Holo using the HoloEverywhere library
 
 This should run on any Android device that supports HoloEverywhere/ActionBarSherlock.
 
-To build, you **must** have working HoloEverywhere and ActionBarSherlock library projects in Eclipse (this hasn't been configured for Gradle or IntelliJ). Include these as library dependencies in the Android section of the project's settings.
+To build, you **must** have working HoloEverywhere and ActionBarSherlock library projects in Eclipse. This hasn't been configured for Gradle or IntelliJ, but if you can get these two libraries working in these environments, the code and XML files should work as-is. Include these as library dependencies in the Android section of the project's settings.
 
 
 Changes:
