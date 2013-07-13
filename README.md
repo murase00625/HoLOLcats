@@ -1,11 +1,11 @@
 HoLOLcats
 =========
 
-Conversion of Google Lolcats sample app to Holo using the HoloAnywhere library.
+Conversion of Google Lolcats sample app to Holo using the HoloEverywhere library.
 
-This should run on any Android device that supports HoloAnywhere/ActionBarSherlock.
+This should run on any Android device that supports HoloEverywhere/ActionBarSherlock.
 
-To build, you **must** have working HoloAnywhere and ActionBarSherlock library projects in Eclipse (this hasn't been configured for Gradle or IntelliJ). Include these as library dependencies in the Android section of the project's settings.
+To build, you **must** have working HoloEverywhere and ActionBarSherlock library projects in Eclipse (this hasn't been configured for Gradle or IntelliJ). Include these as library dependencies in the Android section of the project's settings.
 
 
 Changes:
